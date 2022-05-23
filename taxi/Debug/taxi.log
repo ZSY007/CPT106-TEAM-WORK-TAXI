@@ -1,0 +1,20 @@
+﻿  taxi.cpp
+C:\Users\86137\source\repos\taxi\taxi.cpp(111,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86137\source\repos\taxi\taxi.cpp(115,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86137\source\repos\taxi\taxi.cpp(135,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86137\source\repos\taxi\taxi.cpp(155,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86137\source\repos\taxi\taxi.cpp(159,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86137\source\repos\taxi\taxi.cpp(176,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86137\source\repos\taxi\taxi.cpp(192,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86137\source\repos\taxi\taxi.cpp(499,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86137\source\repos\taxi\taxi.cpp(501,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86137\source\repos\taxi\taxi.cpp(628,7): warning C4102: “label6”: 未引用的标签
+C:\Users\86137\source\repos\taxi\taxi.cpp(642,14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86137\source\repos\taxi\taxi.cpp(671,14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86137\source\repos\taxi\taxi.cpp(800,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86137\source\repos\taxi\taxi.cpp(801,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86137\source\repos\taxi\taxi.cpp(820,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86137\source\repos\taxi\taxi.cpp(821,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86137\source\repos\taxi\taxi.cpp(829,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86137\source\repos\taxi\taxi.cpp(830,21): warning C4018: “<”: 有符号/无符号不匹配
+  taxi.vcxproj -> C:\Users\86137\source\repos\taxi\Debug\taxi.exe
